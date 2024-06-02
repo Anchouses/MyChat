@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Text size  -->
+    <dimen name="text_size_large_title">32sp</dimen>
+    <dimen name="text_size_middle_title">22sp</dimen>
+    <dimen name="text_size_small_title">17sp</dimen>
+    <dimen name="text_size_large_text">20sp</dimen>
+    <dimen name="text_size_middle">16sp</dimen>
+    <dimen name="text_size_tiny">14sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_tiny_wrong_number">12sp</dimen>
+
+    <!--  Common margins  -->
+    <dimen name="common_margin_large">30dp</dimen>
+    <dimen name="common_margin_middle">20dp</dimen>
+    <dimen name="common_margin_small">16dp</dimen>
+    <dimen name="common_margin_tiny">8dp</dimen>
+    <dimen name="common_margin_extra_tiny">6dp</dimen>
+
+    <!--  Buttons height  -->
+    <dimen name="input_description_height">70dp</dimen>
+    <dimen name="primary_button_height">50dp</dimen>
+    <dimen name="edit_text_height">49dp</dimen>
+    <dimen name="category_row_height">48dp</dimen>
+    <dimen name="top_button_height">44dp</dimen>
+    <dimen name="message_input_height">40dp</dimen>
+    <dimen name="secondary_button_height">39dp</dimen>
+    <dimen name="switch_button_height">38dp</dimen>
+    <dimen name="search_field_height">36dp</dimen>
+    <dimen name="small_button_height">35dp</dimen>
+    <dimen name="filter_button_height">33dp</dimen>
+    <dimen name="interest_button_height">32dp</dimen>
+
+    <!--  Buttons width  -->
+    <dimen name="switch_button_width">244dp</dimen>
+    <dimen name="secondary_button_width">166dp</dimen>
+    <dimen name="filter_chip_padding_width">109dp</dimen>
+    <dimen name="filter_button_width">105dp</dimen>
+
+    <!--  Borders  -->
+    <dimen name="button_border_middle">1.5dp</dimen>
+    <dimen name="button_border_small">1dp</dimen>
+    <dimen name="image_border">4dp</dimen>
+
+    <!--  Common radius  -->
+    <dimen name="common_radius_large">100dp</dimen>
+    <dimen name="common_radius_small">12dp</dimen>
+
+    <!--  Custom radius  -->
+    <dimen name="message_radius">18dp</dimen>
+    <dimen name="radius_search">10dp</dimen>
+    <dimen name="radius_4_dp">4dp</dimen>
+
+    <!--  Splash screen icon dimensions  -->
+    <dimen name="splash_screen_icon_height">192dp</dimen>
+    <dimen name="splash_screen_icon_width">192dp</dimen>
+
+    <!--  Onboarding dimensions  -->
+    <dimen name="onboarding_points_top_padding">150dp</dimen>
+    <dimen name="onboarding_bottom_padding">82dp</dimen>
+    <dimen name="onboarding_text_height">80dp</dimen>
+    <dimen name="onboarding_points_padding">10dp</dimen>
+    <dimen name="onboarding_points_size">5dp</dimen>
+
+    <!--  Custom dimensions  -->
+    <dimen name="interests_screen_bottom_margin">148dp</dimen>
+    <dimen name="confirmation_button_margin">140dp</dimen>
+    <dimen name="confirmation_image_margin">139dp</dimen>
+    <dimen name="recovery_password_margin">116dp</dimen>
+    <dimen name="registration_margin_end">116dp</dimen>
+    <dimen name="photo_size">106dp</dimen>
+    <dimen name="chat_image_diameter">70dp</dimen>
+    <dimen name="categories_custom_margin">40dp</dimen>
+    <dimen name="padding_between_short_buttons">11dp</dimen>
+    <dimen name="message_text_margin">14dp</dimen>
+
+    <!--  Popup screen dimensions  -->
+    <dimen name="popup_screen_width">270dp</dimen>
+    <dimen name="popup_screen_height">184dp</dimen>
+    <dimen name="popup_screen_text_padding">12dp</dimen>
+    <dimen name="popup_screen_text_top_padding">2dp</dimen>
+
+    <!-- Bottom Navigation Bar -->
+    <dimen name="nav_bar_height">84dp</dimen>
+    <dimen name="nav_bar_bottom_margin">33dp</dimen>
+    <dimen name="nav_bar_icon_size">28dp</dimen>
+
+    <!--  Registration screen dimensions -->
+    <dimen name="registration_photo_size">120dp</dimen>
+</resources>

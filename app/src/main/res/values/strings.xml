@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">Meet Me</string>
+
+    <!--<editor-fold desc="launch>-->
+    <string name="title">Title</string>
+
+    <!--<editor-fold desc="onboarding">-->
+    <string name="skip">Skip</string>
+    <string name="onboarding_pic_content_description">Onboarding pictures</string>
+    <string name="onboarding_txt_1">Find the perfect event near you. Joint trips to a bar or bowling alley, walking in an interesting company and much more.</string>
+    <string name="onboarding_txt_2">Create your own events, look for like-minded people. Make your life brighter!</string>
+    <string name="onboarding_txt_3">Meet and communicate interesting people who share your interests.</string>
+
+    <!--<editor-fold desc="choice_of_location">-->
+    <string name="choice_of_location">Choice of location</string>
+    <string name="country">Country</string>
+    <string name="enter_country_name">Enter your country name</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="arrow_back">Arrow back</string>
+    <string name="arrow_forward">Arrow_forward</string>
+    <string name="empty"></string>
+
+    <!--<editor-fold desc="choice_of_interests">-->
+    <string name="choose_what_interests_you">Choose what interests you</string>
+    <string name="sport">Sport</string>
+    <string name="music">Music</string>
+    <string name="dancing">Dancing</string>
+    <string name="walks">Walks</string>
+    <string name="cinema">Cinema</string>
+    <string name="concerts">Concerts</string>
+    <string name="theater">Theater</string>
+    <string name="exhibitions">Exhibitions</string>
+    <string name="trip_to_nature">Trip to nature</string>
+    <string name="board_games">Board games</string>
+    <string name="lectures">Lectures</string>
+    <string name="hiking_in_the_mountains">Hiking in the mountains</string>
+    <string name="volunteering">Volunteering</string>
+    <string name="language_courses">Language courses</string>
+    <string name="animals">Animals</string>
+    <string name="everything">Everything at once</string>
+
+    <!--<editor-fold desc="registration">-->
+    <string name="registration">Registration</string>
+    <string name="choose_account_type">Choose account \n type</string>
+    <string name="standard_account">Standard account</string>
+    <string name="business_account">Business account</string>
+    <string name="onwards">Onwards</string>
+    <string name="confirm_person">Confirm person</string>
+    <string name="name_">Name</string>
+    <string name="surname">Surname</string>
+    <string name="your_name">Your name</string>
+    <string name="your_surname">Your surname</string>
+    <string name="birth_date">Birth date</string>
+    <string name="input_date">Input date</string>
+    <string name="input_phone_number">Input phone number</string>
+    <string name="e_mail">Email</string>
+    <string name="input_email">Input email</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Password confirmation</string>
+
+    <!--<editor-fold desc="person_confirmation">-->
+    <string name="confirm_later">Confirm later</string>
+    <string name="confirm">Confirm</string>
+    <string name="photo_is_sent_to_review">Photo is sent to review</string>
+    <string name="send">Send</string>
+    <string name="confirm_your_person">Confirm your person</string>
+    <string name="close">Close</string>
+    <string name="take_picture">Take a picture</string>
+    <string name="person_confirmation">Person confirmation</string>
+
+    <!--<editor-fold desc="enter">-->
+    <string name="enter">Enter</string>
+    <string name="telephone">Telephone</string>
+    <string name="mail">Mail</string>
+    <string name="input_password">Input password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="log_in">Log in</string>
+    <string name="wrong_number">Wrong number</string>
+    <string name="telephone_number_hint">+7(999)999 99 99</string>
+    <string name="e_mail_hint">123@gmail.com</string>
+
+    <!--<editor-fold desc="password recovery">-->
+    <string name="password_recovery">Password recovery</string>
+    <string name="recovery_password">Recovery password</string>
+    <string name="continue_">Continue</string>
+    <string name="sms_for_password_recovery_is_sent">Sms for password recovery is sent</string>
+
+    <!--<editor-fold desc="others profile">-->
+    <string name="description">Description</string>
+    <string name="responsibility">Responsibility</string>
+    <string name="friends">Friends</string>
+
+    <!--<editor-fold desc="categories">-->
+    <string name="categories">Categories</string>
+    <string name="all_categories">All categories</string>
+    <string name="interests">Interests</string>
+    <string name="other">Other</string>
+    <string name="apply">Apply</string>
+    <string name="checked">Checked</string>
+    <string name="unchecked">Unchecked</string>
+
+    <!--<editor-fold desc="filters">-->
+    <string name="filters">Filters</string>
+    <string name="from">from</string>
+    <string name="until">until</string>
+    <string name="friends_count">n friends</string>
+    <string name="write_message">Write message</string>
+    <string name="charisma">Charisma</string>
+    <string name="sociability">Sociability</string>
+    <string name="punctuality">Punctuality</string>
+    <string name="rate">Rate</string>
+    <string name="complain_user">Complain user</string>
+    <string name="user_is_not_confirmed">User is not confirmed</string>
+
+    <!--<editor-fold desc="chat">-->
+    <string name="chat_creating">Chat creating</string>
+    <string name="choose_chat_type">Choose chat type</string>
+    <string name="private_chat">Private chat</string>
+    <string name="public_chat">Public chat</string>
+    <string name="search_by_chats">Search by chats</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="leave_chat">Leave chat</string>
+    <string name="go_to_chat">Go to chat</string>
+    <string name="message_is_read">Message is read</string>
+    <string name="close_topic">Close topic</string>
+    <string name="favorite">Favorite</string>
+    <string name="information">Information</string>
+    <string name="message">Message</string>
+    <string name="attach">Attach</string>
+
+    <!--<editor-fold desc="complaint">-->
+    <string name="spam">Spam</string>
+    <string name="scam">Scam</string>
+    <string name="insult">Insult</string>
+    <string name="violation_of_intellectual_property_rights">Violation of intellectual property rights</string>
+    <string name="explicit_image">Explicit image</string>
+    <string name="Why_do_you_want_to_dispute_complaint">Why do you want to dispute complaint?</string>
+    <string name="describe_reason">Describe reason</string>
+    <string name="input_reason_description">Input reason description</string>
+    <string name="complaint">Complaint</string>
+    <string name="dispute_complaint">Dispute_complaint</string>
+
+    <!--<editor-fold desc="events">-->
+    <string name="create">Create</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="city">City</string>
+    <string name="metro_station">Metro station</string>
+    <string name="area">Area</string>
+    <string name="choose_address">Choose address</string>
+    <string name="event_creating">Event creating</string>
+    <string name="public_event">public event</string>
+    <string name="private_event">private event</string>
+    <string name="p_2_p_event">P2P event</string>
+    <string name="event_name">Event name</string>
+    <string name="choose_category">Choose category</string>
+    <string name="add_photos">Add photos</string>
+    <string name="input_time">Input time</string>
+    <string name="input_city">Input city</string>
+    <string name="input_metro_station">Input metro station</string>
+    <string name="input_area">Input area</string>
+    <string name="number_of_places">Number of places</string>
+    <string name="hint_number">2</string>
+    <string name="is_unlimited">Is unlimited</string>
+    <string name="input_description">Input description</string>
+    <string name="save">Save</string>
+    <string name="events">Events</string>
+    <string name="event">Event</string>
+    <string name="for_creating_event_you_should_confirm_your_person">For creating an event you should confirm your person</string>
+
+    <!--<editor-fold desc="photos">-->
+    <string name="recent">Recent</string>
+    <string name="cancelling">Cancelling</string>
+    <string name="ready">Ready</string>
+    <string name="search_by_friends">Search by friends</string>
+    <string name="search_by_persons">Search by persons/string></string>
+    <string name="share">Share</string>
+    <string name="add_user">Add user</string>
+    <string name="photo_adding">Photo adding</string>
+    <string name="photos">Photos</string>
+    <string name="albums">Albums</string>
+    <string name="cancel">Cancel</string>
+
+    <!--<editor-fold desc="request for friends">-->
+    <string name="requests_for_friends">Requests for friends</string>
+    <string name="read">Read</string>
+    <string name="add">Add</string>
+    <string name="decline">Decline</string>
+    <string name="welcome_message">Welcome message</string>
+    <string name="request_for_spam">Request for spam</string>
+
+    <!--<editor-fold desc="navigation panel">-->
+    <string name="map">Map</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="chats">Chats</string>
+
+    <!--<editor-fold desc="map address">-->
+    <string name="change">Change</string>
+    <string name="choose">Choose</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="default_web_client_id"></string>
+
+</resources>

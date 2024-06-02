@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461335873391",
+    "firebase_url": "https://mychat-fde6b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-fde6b",
+    "storage_bucket": "mychat-fde6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461335873391:android:4b4145770fdc3451abca9a",
+        "android_client_info": {
+          "package_name": "com.silaeva.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461335873391-r932dr60i4v741f1jh6hdtk5ibapm3gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.silaeva.mychat",
+            "certificate_hash": "d20b2f0bbd4df322e89d9bc4254f981f3fcefd87"
+          }
+        },
+        {
+          "client_id": "461335873391-anlruppdqapcg7qnqbv25atdirrpfhvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4yWV13-L8km_PXlIg3LU2pWUKSPDhZaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461335873391-anlruppdqapcg7qnqbv25atdirrpfhvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
